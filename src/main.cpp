@@ -20,7 +20,7 @@
  *  WiFi
  **************************************/
 #define WIFI_SSID   "Shaun"
-#define WIFI_PASSWD "72173436"
+#define WIFI_PASSWD "PUT_PASSWORD_HERE"
 
 #include "select_pins.h"
 
